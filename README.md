@@ -200,12 +200,18 @@ We welcome contributions! Please:
 ---
 
 **Built with ❤️ for Academic Excellence**
-**PREVIEW**
-<img width="1606" height="936" alt="image" src="https://github.com/user-attachments/assets/cc3fb586-202d-4ee5-a2a7-fd29b2e46880" />
 
-<img width="1646" height="898" alt="image" src="https://github.com/user-attachments/assets/20cf10c8-da91-4482-a626-3c1443773892" />
-<img width="1665" height="978" alt="image" src="https://github.com/user-attachments/assets/ac77cfc5-9deb-4d4f-bd6b-160364e1ebda" />
+
+**PREVIEW**
+<img width="1659" height="962" alt="image" src="https://github.com/user-attachments/assets/05e04642-e478-4c39-bab7-02b36ad054a0" />
+
+<img width="1632" height="867" alt="image" src="https://github.com/user-attachments/assets/21deb00c-24c6-40f0-a6ce-8421a3c5ca75" />
+
+<img width="1681" height="966" alt="image" src="https://github.com/user-attachments/assets/1c85ab84-ccc9-4d9a-8480-512715286196" />
+
 **IF WE CLICK ON VIEW DETAILS**
-<img width="1583" height="818" alt="image" src="https://github.com/user-attachments/assets/4a4e8d68-59ff-4a0f-a190-33fe5f6a175b" />
+<img width="1614" height="758" alt="image" src="https://github.com/user-attachments/assets/1ebf04c9-30e8-46a3-b695-cbf34f782a3b" />
+
 **IF WE CLICK ON DOWNLOAD PDF PDF WILL BE DOWNLOADED**
+
 
